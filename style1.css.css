@@ -1,0 +1,94 @@
+ /*body{
+      font-family: Arial, Helvedica, sans-serif;
+	  background-image:url(./WhatsApp\ Image\ 2023-12-01\ at\ 00.32.28.jpeg);
+	  background-repeat:no-repeat;
+	  background-size:100%;
+	  background-position:center; 
+	  
+	  
+	  display: flex;
+	  justify-content: center;
+	  align-items: center;
+	  height: 100vh;
+	  position: relative;
+	  top: 10%;
+      left: 15%;
+	  right:15%;
+	  margin: 0;
+	  padding: 0; 
+ }
+   div{
+       /* background-color:black;
+		position:absolute;
+		top:50%;
+		left:25%; 
+		transform: translate(-10%,-30%);
+		padding:30px;
+	    border-radius:15px;
+		color:rgb(12, 12, 12);
+  }
+  imput{
+		  padding:15px;
+		  border:none;
+		  outline:none;
+		  font-size:16px;
+		  border-radius:9px;
+  }
+  a{
+  background-color:blue;
+  border:none;
+  padding:12px;
+  width:100%;
+  border-radius:20px;
+  color:white;
+  font-size:16px;
+  }*/
+
+
+
+
+  body{
+	font-family: Arial, Helvedica, sans-serif;
+	background-image:url(/WhatsApp\ Image\ 2023-12-01\ at\ 00.32.28.jpeg);
+	background-repeat:no-repeat;
+	background-size:110%;
+	background-position:bgSizeCover; 
+	display: flex;
+	justify-content: center;
+	height: 200vh;
+	position: absolute;
+	top: 50%;
+	left: 15%;
+	right:15%;
+	margin: 0;
+	padding: 0;
+	align-items: center;	  
+  
+  }
+ div{
+	 /* background-color:black;*/
+	  position:absolute;
+	  top:200;
+	  left:45%; 
+	  transform: translate(-20%,-30%);
+	  padding:30px;
+	  border-radius:15px;
+	  color:white;
+}
+imput{
+		padding:15px;
+		border:none;
+		outline:none;
+		font-size:16px;
+		border-radius:9px;
+}
+a{
+background-color:black;
+border:none;
+padding:10px;
+width:100%;
+border-radius:10px;
+color:white;
+font-size:16px;
+text-decoration: none;
+}
